@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542427952923",
+    "firebase_url": "https://mydaavat-d97e3.firebaseio.com",
+    "project_id": "mydaavat-d97e3",
+    "storage_bucket": "mydaavat-d97e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542427952923:android:0d17b6c22cb1ca51",
+        "android_client_info": {
+          "package_name": "mydaavat.com.mydaavat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542427952923-uomce2ebjba8gnnp525kabiggf4ea7hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mydaavat.com.mydaavat",
+            "certificate_hash": "258c18ba7bdbf39afb98bb800882aab3b2c8d025"
+          }
+        },
+        {
+          "client_id": "542427952923-7a9u6ec6feac6q40lo98m92b4lnqrent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeeMK_-KsSg2XxlKyfhA973FmKVsaK8q0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542427952923-c9a1vrv68tb0ato2rv12gist6leepjs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
